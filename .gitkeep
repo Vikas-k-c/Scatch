@@ -1,0 +1,10 @@
+---FILEPATH .gitkeep
+---FIND
+```
+
+```
+---REPLACE
+```
+# This file is used to keep the directory in Git.
+```
+---COMPLETE
